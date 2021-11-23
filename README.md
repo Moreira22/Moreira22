@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moreira22&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira22&layout=compacticons=true&theme=dark" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira22&layout=compacticons=true&theme=dark" />
 </a>
 </div>
 <h1></h1>
