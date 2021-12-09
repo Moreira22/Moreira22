@@ -6,10 +6,10 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moreira22&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moreira22&show_icons=true&theme=blue-green" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira22&layout=compacticons=true&theme=dark" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira22&theme=blue-green" />
 </a>
 </div>
 <h1></h1>
