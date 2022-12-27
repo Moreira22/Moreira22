@@ -8,14 +8,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moreira22&show_icons=true&theme=blue-green" />
 </a>
-  
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira22&theme=blue-green" />
-</a>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreira22&theme=blue-green" /<
 </div>
-<h1></h1>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Moreira22&theme=gotham&hide_border=true&area=true)
 
 <h1></h1>
 <div align="center"> 
